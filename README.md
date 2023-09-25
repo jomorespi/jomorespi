@@ -1,6 +1,6 @@
 ## Salut!	:monkey:
 
-Sóc en Jordi i des de 2018 que m'entesto en construir webs accessibles i lleugeres i aprendre cada dia en l'art d'editar en l'entorn digital.
+Sóc en Jordi Moreno i des de 2018 que m'entesto a escriure un codi accessible, escalable i sintètic en diferents entorns web.
 
 **Més coses a:**
 
