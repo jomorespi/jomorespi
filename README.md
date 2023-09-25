@@ -5,7 +5,7 @@ Sóc en Jordi i des de 2018 que m'entesto en construir webs accessibles i lleuge
 **Més coses a:**
 
 - [jordimoreno.cat](https://jordimoreno.cat/) 
-- [Linkedin](https://https://www.linkedin.com/in/jomorespi/?locale=xx_XX)
-- [Blog](jomorespi.github.io/)
+- [Linkedin](https://www.linkedin.com/in/jomorespi/?locale=xx_XX)
+- [Blog](https://jomorespi.github.io/)
 - [Codepen](https://codepen.io/jomorespi) 
 - [Mastodon](https://xarxa.cloud/@jomorespi)
